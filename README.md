@@ -1,1 +1,1 @@
-# kod-lab1
+# ood-lab1
